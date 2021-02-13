@@ -1,5 +1,19 @@
 # sesamum101
 
+2021
+
+May include this in the S. indicum genome | [Genome-wide analysis of the apple CaCA superfamily reveals that MdCAX proteins are involved in the abiotic stress response as calcium transporters](https://link.springer.com/article/10.1186/s12870-021-02866-1)
+
+
+2021
+
+
+
+[Lignans of Sesame (Sesamum indicum L.): A Comprehensive Review](https://www.mdpi.com/1420-3049/26/4/883)
+
+
+
+
 2020 
 
 [A novel motif in the 5’‐UTR of an orphan gene ‘Big Root Biomass’ modulates root biomass in sesame](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13531)
