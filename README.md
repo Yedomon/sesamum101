@@ -41,7 +41,10 @@ May include this in the S. indicum genome | [Genome-wide analysis of the apple C
 [Genome sequencing of the important oilseed crop Sesamum indicum L](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-401)
 
 
+2006
 
+
+[Formation of two methylenedioxy bridges by a Sesamum CYP81Q protein yielding a furofuran lignan, ()-sesamin](https://www.pnas.org/content/pnas/103/26/10116.full.pdf)
 
 # Olive
 
