@@ -12,7 +12,7 @@ May include this in the S. indicum genome | [Genome-wide analysis of the apple C
 [Lignans of Sesame (Sesamum indicum L.): A Comprehensive Review](https://www.mdpi.com/1420-3049/26/4/883)
 
 
-
+[QTL mapping of PEG-induced drought tolerance at the early seedling stage in sesame using whole genome re-sequencing](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247681)
 
 2020 
 
