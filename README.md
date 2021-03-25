@@ -3,7 +3,33 @@
 2021
 
 
- Excellent reference for sesame paper ---> [A high-quality genome assembly highlights rye genomic characteristics and agronomically important genes | Nature Genetics](https://www.nature.com/articles/s41588-021-00808-z)
+ Excellent reference for sesame paper ---> Two versions | Both in Nature genetics | [Version China long reads](https://www.nature.com/articles/s41588-021-00808-z.pdf) | [Version Germany short reads](https://www.nature.com/articles/s41588-021-00807-0.pdf)
+ 
+ 
+ 
+ The Chinese pipeline
+ 
+ ![pipeline](https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41588-021-00808-z/MediaObjects/41588_2021_808_Fig8_ESM.jpg?as=webp)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [A high-quality genome assembly highlights rye genomic characteristics and agronomically important genes | Nature Genetics](https://www.nature.com/articles/s41588-021-00808-z)
 
 
 May include this in the S. indicum genome | [Genome-wide analysis of the apple CaCA superfamily reveals that MdCAX proteins are involved in the abiotic stress response as calcium transporters](https://link.springer.com/article/10.1186/s12870-021-02866-1)
