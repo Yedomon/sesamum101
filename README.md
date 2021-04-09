@@ -15,6 +15,9 @@
 
 2017 | Nature Communications | [Oxidative rearrangement of (+)-sesamin by CYP92B14 co-generates twin dietary lignans in sesame](https://www.nature.com/articles/s41467-017-02053-7)
 
+2008 | The Plant Journal | [Sequential glucosylation of a furofuran lignan, (+)‐sesaminol, by Sesamum indicum UGT71A9 and UGT94D1 glucosyltransferases](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2008.03428.x?utm_source=TrendMD&utm_medium=cpc&utm_campaign=The_Plant_Journal_TrendMD_0&sid=WOL_tmd1b)
+
+
 2006 | PNAS | [Formation of two methylenedioxy bridges by a Sesamum CYP81Q protein yielding a furofuran lignan, (+)-sesamin](https://www.pnas.org/content/103/26/10116.short)
 
 -----------------------------------------------------------------------------------------------------------------------------------
