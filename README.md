@@ -1,5 +1,23 @@
 # sesamum101
 
+### sesamolin, sesamol in sesamum sp ... The japanese team...amaizing work
+
+
+
+
+
+2020 | The Plant Journal | [(+)‐Sesamin‐oxidising CYP92B14 shapes specialised lignan metabolism in sesame](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14989)
+
+
+2019 | The Plant Journal | [Glycoside‐specific glycosyltransferases catalyze regio‐selective sequential glucosylations for a sesame lignan, sesaminol triglucoside](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14586)
+
+2017 | Nature Communications | [Oxidative rearrangement of (+)-sesamin by CYP92B14 co-generates twin dietary lignans in sesame](https://www.nature.com/articles/s41467-017-02053-7)
+
+2006 | PNAS | [Formation of two methylenedioxy bridges by a Sesamum CYP81Q protein yielding a furofuran lignan, (+)-sesamin](https://www.pnas.org/content/103/26/10116.short)
+
+
+
+
 2021
 
 
