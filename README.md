@@ -1,8 +1,53 @@
 # sesamum101
 
+### Mineral 
+
+
+
+2020 | Israel |[Genetic Architecture Underpinning Yield Components and Seed Mineral–Nutrients in Sesame](https://www.mdpi.com/2073-4425/11/10/1221/htm)
+
+
+
+### Internode elongation gene
+
+2016 | Sesame | [Updated sesame genome assembly and fine mapping of plant height and seed coat color QTLs using a new high-density genetic map](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2316-4#Sec8)
+
+
+
+2019  | Sesame | [Identification of a Sidwf1 gene controlling short internode length trait in the sesame dwarf mutant dw607](https://link.springer.com/article/10.1007/s00122-019-03441-x)
+
+
+2018 | Sesame | [Genetic analysis of yield contributing traits and mapping of QTLs in a recombinant inbred line (RIL) population of sesame (Sesamum indicum L.)](http://ejplantbreeding.org/index.php/EJPB/article/view/2592)
+
+
+
+2019 | Tomato | [Identification and Characterization of EI (Elongated Internode) Gene in Tomato (Solanum lycopersicum)](https://www.mdpi.com/1422-0067/20/9/2204)
+
+2014 | Rice | [QTL analysis of internode elongation in response to gibberellin in deepwater rice ](https://academic.oup.com/aobpla/article/doi/10.1093/aobpla/plu028/158543)
+
+2014 | Wheat | [QTLs for uppermost internode and spike length in two wheat RIL populations and their affect upon plant height at an individual QTL level](https://link.springer.com/article/10.1007/s10681-014-1156-7#Sec2)
+
+
+
+2015 | Maize | [Genetic Dissection of Internode Length Above the Uppermost Ear in Four RIL Populations of Maize (Zea mays L.)](https://academic.oup.com/g3journal/article/5/2/281/6025322?login=true)
+
+
+
+
+
+2020 | Wheat | [The contribution of photosynthesis traits and plant height components to plant height in wheat at the individual quantitative trait locus level](https://www.nature.com/articles/s41598-020-69138-0)
+
+2012 | Wheat | [QTL Detection of Internode Length and Its Component Index in Wheat Using Two Related RIL Populations](https://link.springer.com/article/10.1556/CRC.2012.0002)
+
+
+
+2007 | Rice | [A Major QTL Confers Rapid Internode Elongation in response to water rice in deep water rice](https://www.jstage.jst.go.jp/article/jsbbs/57/4/57_4_305/_pdf)
+
+
+2007 | Soybean | [Genomic Regions Containing QTL for Plant Height, Internodes Length, and Flower Color in Soybean [Glycine max (L.) Merr.]](https://www.jstor.org/stable/4608808?seq=1#metadata_info_tab_contents)
+
+
 ### sesamolin, sesamol in sesamum sp ... The japanese team...amaizing work
-
-
 
 
 
