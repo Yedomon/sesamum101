@@ -3,6 +3,10 @@
 ### Mineral 
 
 
+2021 | Pearl millet | [Multi-environment QTL mapping for grain Iron and Zinc content using bi-parental RIL mapping population in pearl millet](https://www.frontiersin.org/articles/10.3389/fpls.2021.659789/abstract)
+
+2018 | Pearl millet | [Mapping Grain Iron and Zinc Content Quantitative Trait Loci in an Iniadi-Derived Immortal Population of Pearl Millet](https://www.mdpi.com/2073-4425/9/5/248)
+
 
 2020 | Israel |[Genetic Architecture Underpinning Yield Components and Seed Mineral–Nutrients in Sesame](https://www.mdpi.com/2073-4425/11/10/1221/htm)
 
