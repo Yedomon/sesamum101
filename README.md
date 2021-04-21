@@ -1,6 +1,16 @@
 # sesamum101
 
 
+### Capsicum
+
+
+[New reference genome sequences of hot pepper reveal the massive evolution of plant disease-resistance genes by retroduplication](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1341-9)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-017-1341-9/MediaObjects/13059_2017_1341_Fig1_HTML.gif?as=webp)
+
+
+
 ### Onion linkage map construction
 
 
