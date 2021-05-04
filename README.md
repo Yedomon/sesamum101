@@ -33,6 +33,12 @@
 
 ### Internode elongation gene
 
+
+2018 | Soybean | [Combining QTL-seq and linkage mapping to fine map a wild soybean allele characteristic of greater plant height](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4582-4)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-018-4582-4/MediaObjects/12864_2018_4582_Fig1_HTML.gif?as=webp)
+
 2016 | Sesame | [Updated sesame genome assembly and fine mapping of plant height and seed coat color QTLs using a new high-density genetic map](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2316-4#Sec8)
 
 
