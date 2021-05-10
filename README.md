@@ -1,5 +1,12 @@
 # sesamum101
 
+### QTL Mapping
+
+
+[Fine mapping of a kernel length‑related gene with potential value for maize breeding](https://link.springer.com/epdf/10.1007/s00122-020-03749-z?sharing_token=VqVWEkLqaVFrk0vlWT-szfe4RwlQNchNByi7wbcMAY4UCpT2N65xjFjixhSV8FGphtwC5khxREa6MG0grewEknFzlqZKp0ci2HRtRYsyJAdJatoHOOsilE3cOY_bt1UvExyoMepEyE57yyvH78fJpYLe9ctKnbp3qS3fNhe2VWA%3D)
+
+
+![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00122-020-03749-z/MediaObjects/122_2020_3749_Fig1_HTML.png?as=webp)
 
 ### Capsicum
 
