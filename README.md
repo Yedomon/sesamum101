@@ -1,5 +1,18 @@
 # sesamum101
 
+
+
+Data Note | Tutorial for my paper | GigaScience
+
+
+[Paper Reference](https://academic.oup.com/gigascience/article/10/4/giab027/6237163?searchresult=1)
+
+
+
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/4/10.1093_gigascience_giab027/1/m_giab027fig3.jpeg?Expires=1623438881&Signature=gP~CVr2nDc6zzW3XeiLPYCJrkckPKfKFDjC7CiroSc5k2OE5L8yPYvqDF4js2ereN2TbKlJ990OWtWxE9frBqY4RhCBdVZH-kfOuG0WXxGiGrjp8yZA6lstEZgpIStL~dF~8QXYtSH7guywcEXNhZEZF985KntBRzwy3E4zynQtLDMQr43zUibIHnne8ymoq98VRP83GHL-NYzaf~2jSRcqRE9bJhDzta5XY8RZeA2Tpf7tvQUPXqs9YNAvoI5qW7y~89fcMsEoz-2ovdWNYk2-6BSqj2jYBSU5q6eioq~L7DxfmdLzQfAcIF5u3P3N4qp4G6dnODw1qBc8NhfcJEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+
 ### QTL Mapping
 
 
