@@ -49,6 +49,32 @@ Pour la phylogeny le circos et le orthofinder graph faire comme ceci
 
 ![img](https://camo.githubusercontent.com/def7f4d0da9a37671c40d5042e77a96e6a14bfed1389bd1561f693526c0c0c1f/68747470733a2f2f6d656469612e737072696e6765726e61747572652e636f6d2f66756c6c2f737072696e6765722d7374617469632f696d6167652f61727425334131302e313033382532467334313436372d3032302d31393638312d312f4d656469614f626a656374732f34313436375f323032305f31393638315f466967315f48544d4c2e706e673f61733d77656270)
 
+#######################################################
+
+Pour les LEA suivre cette methodw de [Dossa et al 2018](https://link.springer.com/article/10.1186/s12864-019-6091-5)
+
+
+
+
+Example de LEA paper
+
+
+- [Dissecting the Genomic Diversification of Late Embryogenesis Abundant (LEA) Protein Gene Families in Plants](https://academic.oup.com/gbe/article/11/2/459/5165404#131051515)
+
+Ici ils ont bien mis les PFAM des different LEA types
+
+
+- [Late Embryogenesis Abundant (LEA) Gene Family in Maize: Identification, Evolution, and Expression Profiles](https://link.springer.com/article/10.1007/s11105-015-0901-y)
+
+- [Genome-wide identification of the LEA protein gene family in grapevine (Vitis vinifera L.)](https://link.springer.com/article/10.1007/s11295-019-1364-3)
+
+- [Genome-wide identification of the LEA protein gene family in grapevine (Vitis vinifera L.)](https://link.springer.com/article/10.1007/s11295-019-1364-3)
+
+
+- [Genome-wide search and structural and functional analyses for late embryogenesis-abundant (LEA) gene family in poplar](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02872-3)
+
+
+- [Genome-Wide Identification and Expression Profiles of Late Embryogenesis-Abundant (LEA) Genes during Grain Maturation in Wheat (Triticum aestivum L.)](https://www.mdpi.com/2073-4425/10/9/696)
 
 
 
