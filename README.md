@@ -75,6 +75,10 @@ Faire aussi syntheny entre sulement Zhongzhi13 et Goenbaek ou tous les six pourq
 
 
 
+Et peut etre ajouter un tree des LATE EMBRYOGENESIS ABUNDANT GENES
+
+
+
 
 ### Onion linkage map construction
 
