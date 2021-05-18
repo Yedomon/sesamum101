@@ -8,7 +8,7 @@ Sesamum indicum L. is one of the major oil crop traditionally used in Korean foo
 
 From last decade, tremenduous effort brought this orphan crop into the genomics era. 
 
-Initial genome was rendered using BAC clone and short-read approchaes using Yuzhi11 cultivar. Meanwhile, the OCRI generated a contig level assembly (ref) that have been updated in linkage group later on (ref). The availaibility of the reference Chinese cultivars Zhongzhi13 facilaitate the identification and validation of molecular marker relative to plant height (ref), yield components (ref), drought stress (ref), salinity stress (ref) and waterlogging stress (ref).
+Initial genome was rendered using BAC clone and short-read approchaes using Yuzhi11 cultivar (Ref). Meanwhile, the OCRI generated a contig level assembly (ref) that have been updated in linkage group later on (ref). The availaibility of the reference Chinese cultivars Zhongzhi13 facilaitate the identification and validation of molecular marker relative to plant height (ref), yield components (ref), drought stress (ref), salinity stress (ref) and waterlogging stress (ref).
 
 Moreover, a pangenome was constructed based on One idian cultivar and four chineses genotypes including  two cultivars and three landraces.
 
