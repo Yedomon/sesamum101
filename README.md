@@ -2,7 +2,9 @@
 
 Background
 
-Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesdamol), fatty acid. 
+Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesaminol and sesamol). Based on the recent Korean nutritional and health survey, the daily lignan intake from sesame oil is up to 77% with 18.39 mg/person/day and 13.26 mg/person/day for males and females respectively ([Kim et al 2020](https://www.mdpi.com/2304-8158/9/4/394)).
+
+
 
 From last decade, tremenduous effort brought this orphan crop into the genomics era. A chromosomal scale genome were generate based on short reads and genetic linkage map strategies (2014 and 2016). The availaibility of the reference Chinese cultivars Zhongzhi13 facilaitate the identification and validation of molecular marker relative to plant height, yield components, drought stress, salinity stress and waterlogging stress.
 
@@ -11,8 +13,7 @@ Moreover, a pangenome was constructed based on One idian cultivar and four chine
 The strategies employed for the pangenome was based on a single reference assembly (Zhongzhi13) as a backbone representative. Despite the huge contribution of this single refence genome, it cannot represent properly the complete genomic sequence diversity in Sesame species. 
 Therefore the need of high quality genome resource from different origin may help to get inside into the variability among genotypes at genomic level. Besides, having a good quality korean cultivar genome will drastically improve the ongoing korean sesamum breeding activities for oil (Jin husband), lignan (ref), and disease restistance (ref azecova) in the Korean environment.
 
-The cultivar Goenbaek exhibited not only high yield characteristics but also resistant to sesamum Phytophtora blight resistance (ref azecova)  
-
+The cultivar Goenbaek exhibited not only high yield characteristics but also resistant to sesamum Phytophtora blight resistance ([Kim et al 2018](http://www.koreabreedjournal.org/journal/view.html?doi=10.9787/KJBS.2018.50.3.256), [Asegova et al 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.604709/full))  
 
 
 To speed up the Korean genomic-assisted sesame breeding program, a chromosomal-grade genome assembly of the cultivar Goenbaek was generated using Short-read, long-reads and chromosome conformation Hi-C technologies. 
