@@ -18,7 +18,7 @@ To speed up the Korean genomic-assisted sesame breeding program, a chromosomal-g
 The long-reads genome assembly results in 1000 contigs with an N50 of 1000 bp. By including the Hi-c data set, we were able to anchore the contigs into 13 chromosmes as expected. The new Sesamum genome spanned 1000 bp with a high contiguity of 1000 bp representing 10% of the estimated size.  
 
 
-The present whole-genome scale data constitutes a valuable resource that will contribute to the sesame breeding for nutritional, health benefit, biotic and abiotic stresses. Besides, it provide an additionnal candidate genome to extend the existing sesame pangenome pool.
+The present whole-genome scale data constitutes a valuable resource that will contribute to the sesame breeding for nutritional and health benefits, biotic and abiotic stresses. Besides, it provide an additionnal candidate genome to extend the existing sesame pangenome pool.
  
 
 
