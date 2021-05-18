@@ -11,6 +11,8 @@ Moreover, a pangenome was constructed based on One idian cultivar and four chine
 The strategies employed for the pangenome was based on a single reference assembly (Zhongzhi13) as a backbone representative. Despite the huge contribution of this single refence genome, it cannot represent properly the complete genomic sequence diversity in Sesame species. 
 Therefore the need of high quality genome resource from different origin may help to get inside into the variability among genotypes at genomic level. Besides, having a good quality korean cultivar genome will drastically improve the ongoing korean sesamum breeding activities for oil (Jin husband), lignan (ref), and disease restistance (ref azecova) in the Korean environment.
 
+The cultivar Goenbaek exhibited not only high yield characteristics but also resistant to sesamum Phytophtora blight resistance (ref azecova)  
+
 
 
 To speed up the Korean genomic-assisted sesame breeding program, a chromosomal-grade genome assembly of the cultivar Goenbaek was generated using Short-read, long-reads and chromosome conformation Hi-C technologies. 
