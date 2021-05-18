@@ -1,5 +1,27 @@
 # sesamum101
 
+Background
+
+Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesdamol), fatty acid. 
+
+From last decade, tremenduous effort brought this orphan crop into the genomics era. A chromosomal scale genome were generate based on short reads and genetic linkage map strategies (2014 and 2016). The availaibility of the reference Chinese cultivars Zhongzhi13 facilaitate the identification and validation of molecular marker relative to plant height, yield components, drought stress, salinity stress and waterlogging stress.
+
+Moreover, a pangenome was constructed based on One idian cultivar and four chineses genotypes including  two cultivars and three landraces.
+
+The strategies employed for the pangenome was based on a single reference assembly (Zhongzhi13) as a backbone representative. Despite the huge contribution of this single refence genome, it cannot represent properly the complete genomic sequence diversity in Sesame species. 
+Therefore the need of high quality genome resource from different origin may help to get inside into the variability among genotypes at genomic level. Besides, having a good quality korean cultivar genome will drastically improve the ongoing korean sesamum breeding activities for oil (Jin husband), lignan (ref), and disease restistance (ref azecova) in the Korean environment.
+
+
+
+To speed up the Korean genomic-assisted sesame breeding program, a chromosomal-grade genome assembly of the cultivar Goenbaek was generated using Short-read, long-reads and chromosome conformation Hi-C technologies. 
+
+The long-reads genome assembly results in 1000 contigs with an N50 of 1000 bp. By including the Hi-c data set, we were able to anchore the contigs into 13 chromosmes as expected. The new Sesamum genome spanned 1000 bp with a high contiguity of 1000 bp representing 10% of the estimated size.  
+
+
+The present whole-genome scale data constitutes a valuable resource that will contribute to the sesame breeding. Besides, it provide an additionnal candidate genome to extend the existing sesame pangenome.
+ 
+
+
 
 
 01. Data Note | Tutorial for my paper | GigaScience
