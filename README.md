@@ -1,8 +1,10 @@
 # sesamum101
 
-Background
+# Background
 
-Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al. 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesaminol and sesamol). Based on the recent Korean nutritional and health survey, the daily lignan intake from sesame oil is up to 77% with 18.39 mg  and 13.26 mg per person for males and females respectively ([Kim et al. 2020](https://www.mdpi.com/2304-8158/9/4/394)).
+
+<div style="text-align: right"> Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al. 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesaminol and sesamol). Based on the recent Korean nutritional and health survey, the daily lignan intake from sesame oil is up to 77% with 18.39 mg  and 13.26 mg per person for males and females respectively ([Kim et al. 2020](https://www.mdpi.com/2304-8158/9/4/394)). </div>
+
 
 
 
