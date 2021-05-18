@@ -2,20 +2,20 @@
 
 Background
 
-Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesaminol and sesamol). Based on the recent Korean nutritional and health survey, the daily lignan intake from sesame oil is up to 77% with 18.39 mg  and 13.26 mg per person for males and females respectively ([Kim et al 2020](https://www.mdpi.com/2304-8158/9/4/394)).
+Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al. 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly for lignans (sesamin, sesamolin, sesaminol and sesamol). Based on the recent Korean nutritional and health survey, the daily lignan intake from sesame oil is up to 77% with 18.39 mg  and 13.26 mg per person for males and females respectively ([Kim et al. 2020](https://www.mdpi.com/2304-8158/9/4/394)).
 
 
 
-From last decade, tremenduous effort brought this orphan crop into the genomics era. 
+From last decade, tremenduous effort brought this orphan crop into the genomics era ([Dossa et al. 2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.01154/full)). 
 
-Initial genome was rendered using BAC clone and short-read approchaes using Yuzhi11 cultivar (Ref). Meanwhile, the OCRI generated a contig level assembly (ref) that have been updated in linkage group later on (ref). The availaibility of the reference Chinese cultivars Zhongzhi13 facilaitate the identification and validation of molecular marker relative to plant height (ref), yield components (ref), drought stress (ref), salinity stress (ref) and waterlogging stress (ref).
+Initial genome was rendered using BAC clone and short-read approchaes using Yuzhi11 cultivar ([Zhang et al. 2013](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-401)). Meanwhile, the Oil Crop Research Institute (OCRI) generated a contig level assembly ([Wang et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r39)) that have been updated in linkage group later on ([Wang et al. 2014](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2316-4)). The availaibility of the reference Chinese cultivars Zhongzhi13 facilitate the identification and validation of molecular marker relative to plant height (ref), yield components (ref), drought stress (ref), salinity stress (ref) and waterlogging stress (ref).
 
 Moreover, a pangenome was constructed based on One idian cultivar and four chineses genotypes including  two cultivars and three landraces.
 
 The strategies employed for the pangenome was based on a single reference assembly (Zhongzhi13) as a backbone representative. Despite the huge contribution of this single refence genome, it cannot represent properly the complete genomic sequence diversity in Sesame species. 
 Therefore the need of high quality genome resource from different origin may help to get inside into the variability among genotypes at genomic level. Besides, having a good quality korean cultivar genome will drastically improve the ongoing korean sesamum breeding activities for oil (Jin husband), lignan (ref), and disease restistance (ref azecova) in the Korean environment.
 
-The cultivar Goenbaek exhibited not only high yield characteristics but also resistant to sesamum Phytophtora blight resistance ([Kim et al 2018](http://www.koreabreedjournal.org/journal/view.html?doi=10.9787/KJBS.2018.50.3.256), [Asegova et al 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.604709/full))  
+The cultivar Goenbaek exhibited not only high yield characteristics but also resistant to sesamum Phytophtora blight resistance ([Kim et al. 2018](http://www.koreabreedjournal.org/journal/view.html?doi=10.9787/KJBS.2018.50.3.256), [Asegova et al. 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.604709/full))  
 
 
 To speed up the Korean genomic-assisted sesame breeding program, a chromosomal-grade genome assembly of the cultivar Goenbaek was generated using Short-read, long-reads and chromosome conformation Hi-C technologies. 
