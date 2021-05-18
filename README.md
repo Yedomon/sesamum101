@@ -105,6 +105,16 @@ Et peut etre ajouter un tree des LATE EMBRYOGENESIS ABUNDANT GENES
 
 
 
+Un genome d'un lamiales [Genome structure and evolution of Antirrhinum majus L](https://www.nature.com/articles/s41477-018-0349-9#Sec8)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-018-0349-9/MediaObjects/41477_2018_349_Fig2_HTML.png?as=webp)
+
+
+
+
+
+
+
 
 ### Onion linkage map construction
 
