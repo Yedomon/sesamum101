@@ -23,6 +23,56 @@ The present whole-genome scale data constitutes a valuable resource that will co
 
 
 
+# Data description
+
+
+
+##  Fluorescence In Situ Hybridization (FISH)
+
+
+
+## Tissue sampling, DNA and RNA extractions
+
+Young leaves of S. indicum var. Goenbaek were collected, flash-frozen in liquid nitrogen and stored at -80°C prior to extraction.  The DNA was extracted based on a modified CTAB protocol ([Allen et al. 2006](https://www.nature.com/articles/nprot.2006.384)). Regarding the RNA extraction, samples from roots, stem, leaves and apical meristems were extracted using RNeasy® Plant Mini Kit (Qiagen, Germany). All samples were checked for quality using Nanodrop ND 1000 (Thermo Fisher, Waltham, MA, USA) and stored at -20°C prior sequencing.
+
+
+
+## short-read sequencing
+
+After a second quality check with Qubit Fluorometer (Thermo Fisher, Waltham, MA, USA), 1µg of genomic DNA was employed for the library preparation using a TruSeq Nano DNA Prep Kit (Illumina, San Diego, CA, USA) following manufacturer's protocol. 
+
+NovaSeq 6000 System Illumina, San Diego, CA, USA
+
+## PacBio long-reads sequencing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 01. Data Note | Tutorial for my paper | GigaScience
 
 
