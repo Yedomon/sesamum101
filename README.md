@@ -37,13 +37,20 @@ Young leaves of S. indicum var. Goenbaek were collected, flash-frozen in liquid 
 
 
 
-## short-read sequencing
+## Short-read sequencing
 
-After a second quality check with Qubit Fluorometer (Thermo Fisher, Waltham, MA, USA), 1µg of genomic DNA was employed for the library preparation using a TruSeq Nano DNA Prep Kit (Illumina, San Diego, CA, USA) following manufacturer's protocol. 
+After a second quality check with Qubit Fluorometer (Thermo Fisher, Waltham, MA, USA), 1µg of genomic DNA was sheared to ~550 bp fragments. Then, the library preparation was performed with a TruSeq Nano DNA Prep Kit (Illumina, San Diego, CA, USA) following manufacturer's protocol. Taking advantage of the NovaSeq 6000 System (Illumina, San Diego, CA, USA), a 100 bp paired-ends sequencing data resulting in 1000 bp (-fold coverage) was generated.  
 
-NovaSeq 6000 System Illumina, San Diego, CA, USA
+
+## Genome size estimation
+
+
+
 
 ## PacBio long-reads sequencing
+
+
+Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was constructed following SMRTbell™ Libraries' protocol (Pacific Biosciences, Melon Parl, CA, USA). A total of 29,092,781,973 bp (-fold coverage) of filtered PacBio continuous long-reads (CLR) were generated on PacBio Sequel system using five Single Molecule Real Time (SMRT) cells. 
 
 
 
