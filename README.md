@@ -29,8 +29,8 @@ The present whole-genome scale data constitutes a valuable resource that will co
 
 ##  Fluorescence In Situ Hybridization (FISH)
 
-A two to three days-old healthy root tips from seedlings grown at 25°C were sampled and pre-treated with 2 mM 8-hydroxyquinoline for five hours at 12°C. The pre-treated root tips were  in a Carnoy's solution for two hours at room teperature and stored in 70% ethanol. Afterwards, a slide preparation was performed by treating the solution with an enzyme solution composed of 2% cellulase and 1 % pectolyase. The mixture was maitained at 37°C for 90 minutes.
-The FISH was carried out with pre-labelled oliga probe of 5S rDNA, 45S rDNA and Arabidopsis-type telomeric repeats in three steps (the denaturation for 5 minutes at 80°C, the hybridization for 30 minutes at room temperaturte and a stringent washing step). The slide was visualized under a fluorescence microscope Olympus BX53 with an integrated CCD camera (Leica DFC365FS). The image was processed in CytoVision® Version 7.2 software and edited in Adobe Photoshop  v22.0.
+A two to three days-old healthy root tips from seedlings grown at 25°C were sampled and pre-treated with 2 mM 8-hydroxyquinoline for five hours at 12°C. The pre-treated tips were fixed in a Carnoy's solution for two hours at room teperature and stored in 70% ethanol. Afterwards, a slide preparation was performed by treating the solution with an enzyme solution composed of 2% cellulase and 1 % pectolyase. The mixture was maintained at 37°C for 90 minutes.
+The FISH was carried out with pre-labelled oliga probe of 5S rDNA, 45S rDNA and Arabidopsis-type telomeric repeats in three steps (the denaturation for 5 minutes at 80°C, the hybridization for 30 minutes at room temperaturte and a stringent washing step). The slide was visualized under a fluorescence microscope Olympus BX53 with an integrated CCD camera (Leica DFC365FS). The image was processed in CytoVision® software Version 7.2  and edited in Adobe Photoshop v22.0.
 
 
 
@@ -57,6 +57,8 @@ Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was co
 
 
 ## Hi-C Sequencing
+
+
 
 
 ## Contigs level assembly and anchoring with Hi-C data
