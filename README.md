@@ -81,23 +81,7 @@ Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was co
 
 
 
-## Gene family identification and phylogenetic tree construction
-
-
-
-## Syntheny analysis
-
-
-
-
-
-
-
-
-
-
-
-
+## Gene family identification, phylogenetic tree construction and syntheny analysis
 
 
 
