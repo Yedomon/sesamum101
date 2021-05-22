@@ -29,8 +29,14 @@ The present whole-genome scale data constitutes a valuable resource that will co
 
 ##  Fluorescence In Situ Hybridization (FISH)
 
-A two to three days-old healthy root tips from seedlings grown at 25°C were sampled and pre-treated with 2 mM 8-hydroxyquinoline for five hours at 12°C. The pre-treated tips were fixed in a Carnoy's solution for two hours at room teperature and stored in 70% ethanol. Afterwards, a slide preparation was performed by treating the solution with an enzyme solution composed of 2% cellulase and 1 % pectolyase. The mixture was maintained at 37°C for 90 minutes.
-The FISH was carried out with pre-labelled oliga probe of 5S rDNA, 45S rDNA and Arabidopsis-type telomeric repeats in three steps (the denaturation for 5 minutes at 80°C, the hybridization for 30 minutes at room temperaturte and a stringent washing step). The slide was visualized under a fluorescence microscope Olympus BX53 with an integrated CCD camera (Leica DFC365FS). The image was processed in CytoVision® software Version 7.2  and edited in Adobe Photoshop v22.0.
+The plant samples were prepared following [Pellerin et al (2018)](https://www.hst-j.org/articles/article/Ge7d/) approach. A two to three days-old healthy root tips from seedlings grown at 25°C were sampled and pre-treated with 2 mM 8-hydroxyquinoline for five hours at 12°C. The pre-treated tips were fixed in a Carnoy's solution for two hours at room teperature and stored in 70% ethanol until usage. 
+
+Afterwards, somatic chromosome spreads preparation was performed based on  [Waminal et al. (2018)](http://www.plantbreedbio.org/journal/view.html?doi=10.9787/PBB.2018.6.1.74) protocol. Briefly, the root tips were dissected and digested with an enzymatic solution composed of 2% cellulase and 1 % pectolyase at 37°C for 90 minutes. 
+The suspension was then washed in 70%, 80% and 90% ethanol successively to ensure the dehydradation. 
+
+The FISH was carried out as described by [Peniton et al. (2019)](http://www.plantbreedbio.org/journal/view.html?volume=7&number=3&spage=237&year=2019). Pre-labelled oliga probe of 5S rDNA, 45S rDNA and Arabidopsis-type telomeric repeats were added to the mixture followed by the denaturation (5 minutes at 80°C), hybridization (30 minutes at room temperature) and a stringent washing steps. 
+
+The slide was then visualized under a fluorescence microscope Olympus BX53 with an integrated CCD camera Leica DFC365FS (Leica microsystem Inc., Germany). The image was processed in CytoVision® software Version 7.2 (Leica Microsystems, Germany)  and edited in Adobe Photoshop CS6.
 
 
 
@@ -60,11 +66,26 @@ Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was co
 
 
 
-
 ## Contigs level assembly and anchoring with Hi-C data
 
 
 
+## Whole genome comparison with Zhongzhi13 and chromosome name allocation 
+
+
+## Repeat identification
+
+
+
+## Annotation
+
+
+
+## Gene family identification and phylogenetic tree construction
+
+
+
+## Syntheny analysis
 
 
 
