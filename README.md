@@ -39,20 +39,24 @@ Young leaves of S. indicum var. Goenbaek were collected, flash-frozen in liquid 
 
 ## Short-read sequencing
 
-After a second quality check with Qubit Fluorometer (Thermo Fisher, Waltham, MA, USA), 1µg of genomic DNA was sheared to ~550 bp fragments. Then, the library preparation was performed with a TruSeq Nano DNA Prep Kit (Illumina, San Diego, CA, USA) following manufacturer's protocol. Taking advantage of the NovaSeq 6000 System (Illumina, San Diego, CA, USA), a 100 bp paired-ends sequencing data resulting in 1000 bp (-fold coverage) was generated.  
+After a second quality check with Qubit Fluorometer (Thermo Fisher, Waltham, MA, USA), 1µg of genomic DNA was sheared to ~550 bp fragments. Then, the library preparation was performed with a TruSeq Nano DNA Prep Kit (Illumina, San Diego, CA, USA) following manufacturer's protocol. Taking advantage of the NovaSeq 6000 System (Illumina, San Diego, CA, USA), a 100 bp paired-ends sequencing data resulting in 1000 bp (xx-fold coverage) was generated (Supplementary Table S1).  
 
 
 ## Genome size estimation
 
+Using the short-reads data, a k-mer based genome size estimation was performed with Jellyfish v.2.3.0 (Jellyfish,[RRID:SCR_005491](https://scicrunch.org/resolver/RRID:SCR_005491))([Marçais et al. 2011](https://academic.oup.com/bioinformatics/article/27/6/764/234905))tool with k-mer depth setting k = 19. As a result, a genome size of 321.82 Mbp was obtained based on the following equation Estimated genome size = the total number of each unique 19-mer/the highest frequency value that occurred at k = 19 (Supplementary Fig. S1).
 
 
 
 ## PacBio long-reads sequencing
 
+Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was constructed following SMRTbell™ Libraries' protocol (Pacific Biosciences, Melon Parl, CA, USA). A total of 29.1 Gbp (90.4-fold coverage) of filtered PacBio® continuous long-reads (CLR) were generated on PacBio® Sequel system with five Single Molecule Real Time (SMRT®) cells using P6-C4 chemistry (Supplementary Table S2).
 
-Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was constructed following SMRTbell™ Libraries' protocol (Pacific Biosciences, Melon Parl, CA, USA). A total of 29,092,781,973 bp (-fold coverage) of filtered PacBio continuous long-reads (CLR) were generated on PacBio Sequel system using five Single Molecule Real Time (SMRT) cells. 
+
+## Hi-C Sequencing
 
 
+## Contigs level assembly and anchoring with Hi-C data
 
 
 
