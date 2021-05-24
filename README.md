@@ -1,6 +1,10 @@
 # sesamum101
 
-# Background
+[Ref paper 02](https://academic.oup.com/gigascience/article/10/3/giab016/6178709)
+
+# Data description
+
+## Background
 
 
 Sesamum indicum L. is one of the major oil crop traditionally used in Korean food culture as cooking oil, seasoning or decoration food ([Kim et al. 2016](https://www.sciencedirect.com/science/article/pii/S2352618116300099)). This member of mint family harbors valuable nutritional and health benefits to human mainly dur to its lignans (sesamin, sesamolin, sesaminol and sesamol). Based on the recent Korean nutritional and health survey, the daily lignan intake from sesame oil is up to 77% with 18.39 mg  and 13.26 mg per person for males and females respectively ([Kim et al. 2020](https://www.mdpi.com/2304-8158/9/4/394)). 
@@ -20,14 +24,9 @@ The long-reads genome assembly results in 1000 contigs with an N50 of 1000 bp. B
 
 The present whole-genome scale data constitutes a valuable resource that will contribute to the sesame breeding for nutritional and health benefits, biotic and abiotic stresses. Besides, it provide an additionnal candidate genome to extend the existing sesame pangenome pool.
  
+## Methods
 
-
-
-# Data description
-
-
-
-##  Fluorescence In Situ Hybridization (FISH)
+###  Fluorescence In Situ Hybridization (FISH)
 
 The plant samples were prepared following [Pellerin et al (2018)](https://www.hst-j.org/articles/article/Ge7d/) approach. A two to three days-old healthy root tips from seedlings grown at 25°C were sampled and pre-treated with 2 mM 8-hydroxyquinoline for five hours at 12°C. The pre-treated tips were fixed in a Carnoy's solution for two hours at room teperature and stored in 70% ethanol until usage. 
 
@@ -40,50 +39,69 @@ The slide was then visualized under a fluorescence microscope Olympus BX53 with 
 
 
 
-## Tissue sampling, DNA and RNA extractions
+### Tissue sampling, DNA and RNA extractions
 
 Young leaves of S. indicum var. Goenbaek were collected, flash-frozen in liquid nitrogen and stored at -80°C prior to extraction.  The DNA was extracted based on a modified CTAB protocol ([Allen et al. 2006](https://www.nature.com/articles/nprot.2006.384)). Regarding the RNA extraction, samples from roots, stem, leaves and apical meristems were extracted using RNeasy® Plant Mini Kit (Qiagen, Germany). All samples were checked for quality using Nanodrop ND 1000 (Thermo Fisher, Waltham, MA, USA) and stored at -20°C prior sequencing.
 
 
 
-## Short-read sequencing
+### Short-read sequencing
 
 After a second quality check with Qubit Fluorometer (Thermo Fisher, Waltham, MA, USA), 1µg of genomic DNA was sheared to ~550 bp fragments. Then, the library preparation was performed with a TruSeq Nano DNA Prep Kit (Illumina, San Diego, CA, USA) following manufacturer's protocol. Taking advantage of the NovaSeq 6000 System (Illumina, San Diego, CA, USA), a 100 bp paired-ends sequencing data resulting in 1000 bp (xx-fold coverage) was generated (Supplementary Table S1).  
 
 
-## Genome size estimation
+### Genome size estimation
 
 Using the short-reads data, a k-mer based genome size estimation was performed with Jellyfish v.2.3.0 (Jellyfish,[RRID:SCR_005491](https://scicrunch.org/resolver/RRID:SCR_005491))([Marçais et al. 2011](https://academic.oup.com/bioinformatics/article/27/6/764/234905))tool with k-mer depth setting k = 19. As a result, a genome size of 321.82 Mbp was obtained based on the following equation Estimated genome size = the total number of each unique 19-mer/the highest frequency value that occurred at k = 19 (Supplementary Fig. S1).
 
 
 
-## PacBio long-reads sequencing
+### PacBio long-reads sequencing
 
 Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was constructed following SMRTbell™ Libraries' protocol (Pacific Biosciences, Melon Parl, CA, USA). A total of 29.1 Gbp (90.4-fold coverage) of filtered PacBio® continuous long-reads (CLR) were generated on PacBio® Sequel system with five Single Molecule Real Time (SMRT®) cells using P6-C4 chemistry (Supplementary Table S2).
 
 
-## Hi-C Sequencing
+### Hi-C Sequencing
 
 
 
-## Contigs level assembly and anchoring with Hi-C data
+
+### Contigs level assembly and anchoring with Hi-C data
+
+
+### Whole genome comparison with Zhongzhi13 and chromosome name allocation 
+
+
+### Repeat identification
 
 
 
-## Whole genome comparison with Zhongzhi13 and chromosome name allocation 
-
-
-## Repeat identification
+### Genome annotation
 
 
 
-## Annotation
+### Pangenome inference, phylogenetic tree construction and syntheny analysis
+
+## Results and discussion
+
+## Conclusion
+
+## Availability of Supporting Data and Materials
+
+## Additionnal files
+
+## Abbreviations
+
+## Competing Interests
+
+The authors declare that they have no competing interests.
+
+## Authors’ Contributions
+
+## ACKNOWLEDGEMENTS
 
 
-
-## Gene family identification, phylogenetic tree construction and syntheny analysis
-
-
+## References
 
 
 
