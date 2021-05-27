@@ -22,6 +22,10 @@ hmmscan --cpu 8 --tblout sesamum_Dehydrin.txt Dehydrin.hmm ../genome/Sesamum_ind
 
 wget http://pfam.xfam.org/family/PF03760/hmm
 
+hmmpress LEA_1.hmm
+
+hmmscan --cpu 8 --tblout sesamum_LEA_1.txt LEA_1.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.LEA_1 &
+
 ```
 
 ##3 Late embryogenesis abundant (LEA) group 2 (PF03168)
@@ -30,6 +34,10 @@ wget http://pfam.xfam.org/family/PF03760/hmm
 ```python
 
 wget http://pfam.xfam.org/family/PF03168/hmm
+
+hmmpress LEA_2.hmm
+
+hmmscan --cpu 8 --tblout sesamum_LEA_2.txt LEA_2.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.LEA_2 &
 
 ```
 
@@ -41,6 +49,10 @@ wget http://pfam.xfam.org/family/PF03168/hmm
 
 wget http://pfam.xfam.org/family/PF03242/hmm
 
+hmmpress LEA_3.hmm
+
+hmmscan --cpu 8 --tblout sesamum_LEA_3.txt LEA_3.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.LEA_3 &
+
 ```
 
 ##5 Late embryogenesis abundant (LEA) group 4 (PF02987)
@@ -48,6 +60,10 @@ wget http://pfam.xfam.org/family/PF03242/hmm
 ```python
 
 wget http://pfam.xfam.org/family/PF02987/hmm
+
+hmmpress LEA_4.hmm
+
+hmmscan --cpu 8 --tblout sesamum_LEA_4.txt LEA_4.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.LEA_4 &
 
 ```
 
@@ -57,6 +73,10 @@ wget http://pfam.xfam.org/family/PF02987/hmm
 ```python
 
 wget http://pfam.xfam.org/family/PF00477/hmm
+
+hmmpress LEA_5.hmm
+
+hmmscan --cpu 8 --tblout sesamum_LEA_5.txt LEA_5.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.LEA_5 &
 
 
 ```
@@ -68,6 +88,12 @@ wget http://pfam.xfam.org/family/PF00477/hmm
 
 wget http://pfam.xfam.org/family/PF10714/hmm
 
+
+hmmpress LEA_6.hmm
+
+hmmscan --cpu 8 --tblout sesamum_LEA_6.txt LEA_6.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.LEA_6 &
+
+
 ```
 
 ##8 Seed Maturation Protein (SMP) (PF04927)
@@ -76,27 +102,21 @@ wget http://pfam.xfam.org/family/PF10714/hmm
 
 wget http://pfam.xfam.org/family/PF04927/hmm
 
+hmmpress SMP.hmm
+
+hmmscan --cpu 8 --tblout sesamum_SMP.txt SMP.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.SMP &
+
 ```
 
 
 
+Faire avec d'autres espece come arabidopis olive perilla tomate etc comme ici --> [Le genome de prunus](https://academic.oup.com/gigascience/article/9/12/giaa130/6029397)
+
+Ils ont mis un cutoff de 0.01. Il faudra en faire de meme en prenant en compte la colonme best 1 domain je crois.....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/12/10.1093_gigascience_giaa130/1/giaa130fig4.jpeg?Expires=1625140526&Signature=Ks3SjJpm7GN7PPc5hvKRitLGMPv5Xz6wj~SIQt~4nrMmJvptJ5CHcETvq-9BYPZd~nuZHFDKmOHJ5x4rn4pFvEv7imv2fnw9zKo~Dm3ytrevIK2FE-AAdcbAGPSQNA1aj7YNX-Y179ORUazVeSFqUufNxV9QTp~af6pv0h30Cr44euUt2tGIsgPLtKGRpTz4~hz-x18tJZgaLz3FmqFzSrlU9ODKc9BrzOftukkObCl7NYq4qlBq2jg0CPzhYyc7pS0a-8v5S2190qzB2sWPvmUGPWJ2AbTIcpKjnwORkARWf7GroE5Wz5Oc8aMkeva-cDWQ3pPAglAIVLNqQXUZHw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 
 
