@@ -1,5 +1,105 @@
 # sesamum101
 
+LEA hmm
+
+
+##1 Dehydrin (PF00257)
+
+
+```python
+
+wget http://pfam.xfam.org/family/PF00257/hmm
+
+hmmpress Dehydrin.hmm
+
+hmmscan --cpu 8 --tblout sesamum_Dehydrin.txt Dehydrin.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.Dehydrin &
+
+```
+
+##2 Late embryogenesis abundant (LEA) group 1 (PF03760)
+
+```python
+
+wget http://pfam.xfam.org/family/PF03760/hmm
+
+```
+
+##3 Late embryogenesis abundant (LEA) group 2 (PF03168)
+
+
+```python
+
+wget http://pfam.xfam.org/family/PF03168/hmm
+
+```
+
+
+##4 Late embryogenesis abundant (LEA) group 3 (PF03242)
+
+
+```python
+
+wget http://pfam.xfam.org/family/PF03242/hmm
+
+```
+
+##5 Late embryogenesis abundant (LEA) group 4 (PF02987)
+
+```python
+
+wget http://pfam.xfam.org/family/PF02987/hmm
+
+```
+
+
+##6 Late embryogenesis abundant (LEA) group 5 (PF00477)
+
+```python
+
+wget http://pfam.xfam.org/family/PF00477/hmm
+
+
+```
+
+
+##7 Late embryogenesis abundant (LEA) group 6 (PF10714)
+
+```python
+
+wget http://pfam.xfam.org/family/PF10714/hmm
+
+```
+
+##8 Seed Maturation Protein (SMP) (PF04927)
+
+```python
+
+wget http://pfam.xfam.org/family/PF04927/hmm
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [SwiftOrtho: A fast, memory-efficient, multiple genome orthology classifier](https://academic.oup.com/gigascience/article/8/10/giz118/5606727)
 
 
