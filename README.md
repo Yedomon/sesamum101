@@ -1,5 +1,13 @@
 # sesamum101
 
+Plus raisonnable de prendre ceci pour faire le travail avec LC162 versus 32-15 en suivant la meme demarche que [Dossa et al 2017](https://www.nature.com/articles/s41598-017-09397-6) en y ajoutant peut etre le volet lignan content avant et des graines provenan de materiel ayant ete stresse comme [ici](https://www.mdpi.com/2073-4395/7/4/83)
+
+
+
+
+
+
+
 Today 28 juin 2021, je cherchais des lamiales good quality genome pour comparative genomics.
 
 
