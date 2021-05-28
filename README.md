@@ -1,5 +1,26 @@
 # sesamum101
 
+Today 28 juin 2021, je cherchais des lamiales good quality genome pour comparative genomics.
+
+
+J'ai pu trouver ceci:
+
+
+1. Olea europaea | 2021 | [Paper](https://www.nature.com/articles/s41438-021-00498-y#Sec9) | [Database](https://bigd.big.ac.cn/gwh/Assembly/10300/show)
+2. Antirrhinum majus | 
+3. Avicennia marina | 
+4. Tectona grandis | 
+5. Le genome produit 
+
+
+
+
+
+
+
+
+
+
 LEA hmm
 
 
