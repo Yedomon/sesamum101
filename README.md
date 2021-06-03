@@ -1,5 +1,25 @@
 # sesamum101
 
+[Genome-Wide Analysis of nsLTP Gene Family and Identification of SiLTPs Contributing to High Oil Accumulation in Sesame (Sesamum indicum L.)](https://www.mdpi.com/1422-0067/22/10/5291)
+
+
+![img](https://www.mdpi.com/ijms/ijms-22-05291/article_deploy/html/images/ijms-22-05291-g004.png)
+
+
+
+[Genetic Variability and Population Structure of Ethiopian Sesame (Sesamum indicum L.) Germplasm Assessed through Phenotypic Traits and Simple Sequence Repeats Markers](https://www.mdpi.com/2223-7747/10/6/1129)
+
+
+
+
+![img](https://www.mdpi.com/plants/plants-10-01129/article_deploy/html/images/plants-10-01129-g002.png)
+
+
+
+
+
+
+
 Plus raisonnable de prendre ceci pour faire le travail avec LC162 versus 32-15 en suivant la meme demarche que [Dossa et al 2017](https://www.nature.com/articles/s41598-017-09397-6) en y ajoutant peut etre le volet lignan content avant et des graines provenan de materiel ayant ete stresse comme [ici](https://www.mdpi.com/2073-4395/7/4/83)
 
 
