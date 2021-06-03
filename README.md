@@ -1,6 +1,18 @@
 # sesamum101
 
 
+un truc sur le freezing en Coree du sud | [Response of citrus to freezing tolerance differs depending on genotypes and growing conditions](https://link.springer.com/article/10.1007/s13580-020-00311-0)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13580-020-00311-0/MediaObjects/13580_2020_311_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
+
+
 Viens juste de sortir | 3 juin 2021
 
 
