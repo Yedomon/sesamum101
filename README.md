@@ -1,5 +1,18 @@
 # sesamum101
 
+[Genome-wide association study of seed coat color in sesame (Sesamum indicum L.)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251526)
+
+
+
+[Genome-wide association uncovers the genetic architecture of tradeoff between flowering date and yield components in sesame](https://www.biorxiv.org/content/10.1101/2021.04.22.440889v1.full)
+
+
+[Foliar selenium application for improving drought tolerance of sesame (Sesamum indicum L.)](https://www.degruyter.com/document/doi/10.1515/opag-2021-0222/html)
+
+
+[design online](https://drs.icar.gov.in/)
+
+
 
 un truc sur le freezing en Coree du sud | [Response of citrus to freezing tolerance differs depending on genotypes and growing conditions](https://link.springer.com/article/10.1007/s13580-020-00311-0)
 
