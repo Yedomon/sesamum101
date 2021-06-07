@@ -1,5 +1,24 @@
 # sesamum101
 
+
+
+
+
+For HiC
+
+
+
+[1](https://www.biorxiv.org/content/10.1101/392126v1.full.pdf)
+
+[2](https://www.g3journal.org/content/10/4/1159)
+[3](https://www.biorxiv.org/content/10.1101/2020.05.30.124800v2.full)
+[4](https://www.biorxiv.org/content/10.1101/2021.03.12.435103v1.full)
+[5](https://www.biorxiv.org/content/10.1101/668921v3.full)
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618069/#men13020-sec-0002title)
+
+
+
+
 [Genome-wide association study of seed coat color in sesame (Sesamum indicum L.)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251526)
 
 
