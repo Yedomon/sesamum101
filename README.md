@@ -6,15 +6,23 @@
 
 For HiC
 
+- [The genome of the venomous snail Lautoconus ventricosus sheds light on the origin of conotoxin diversity](https://academic.oup.com/gigascience/article/10/5/giab037/6284011)
+
+> Three Chicago and 3 Hi-C libraries were prepared following [90] and [91], respectively. A total of 0.5 µg of HMW DNA from individual CV1495 (MNCN 15.05/92199) was used per library. Briefly, for Chicago libraries, HMW DNA (mean fragment length = 50 kb) was reconstituted into chromatin in vitro and fixed with formaldehyde. For Dovetail Hi-C libraries, chromatin was fixed in place with formaldehyde in the nucleus and then extracted. For both libraries, fixed chromatin was digested with DpnII, the 5′ overhangs filled in with biotinylated nucleotides, and free blunt ends were ligated. After ligation, crosslinks were reversed and the DNA purified and treated to remove biotin that was not internal to ligated fragments. The DNA was then sheared to ∼350 bp mean fragment size and sequencing libraries were generated using NEBNext Ultra enzymes and Illumina-compatible adapters. Biotin-containing fragments were isolated using streptavidin beads before PCR enrichment of each library. All 6 libraries were sequenced on an Illumina HiSeq X platform (paired-end, 2 × 151 bp). The read pairs produced for the Chicago libraries were 322, 162, and 277 Gb, and for the Dovetail Hi-C libraries were 145, 426, and 109 Gb.
+
+And
+
+> Long reads sequenced in the 4 SMRT cells were de novo assembled using wtdgb2 [92]. This software computes the consensus haploid sequence of each contig and produces fewer false duplications than other assemblers [92], as tested in our genome assembly using Purge Haplotigs [93] and confirmed by the low number of duplicates in the BUSCO scores. The initial de novo assembly, shotgun long reads, Chicago library reads, and Dovetail Hi-C library reads were used as input data for HiRiSETM, a software pipeline designed specifically for using proximity ligation data to scaffold genome assemblies [90]. An iterative analysis was conducted. First, Shotgun and Chicago library sequences were aligned to the draft input assembly using a modified SNAP read mapper [94]. The separations of Chicago read pairs mapped within draft scaffolds were analyzed by HiRiSETM to produce a likelihood model for genomic distance between read pairs, and the model was used to identify and break putative misjoins, to score prospective joins, and make joins above a threshold. After aligning and scaffolding Chicago data, Dovetail Hi-C library sequences were aligned and merged into scaffolds following the same method. After scaffolding, shotgun sequences were used to close gaps between contigs [90].
 
 
-[1](https://www.biorxiv.org/content/10.1101/392126v1.full.pdf)
 
-[2](https://www.g3journal.org/content/10/4/1159)
-[3](https://www.biorxiv.org/content/10.1101/2020.05.30.124800v2.full)
-[4](https://www.biorxiv.org/content/10.1101/2021.03.12.435103v1.full)
-[5](https://www.biorxiv.org/content/10.1101/668921v3.full)
-[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618069/#men13020-sec-0002title)
+- [1](https://www.biorxiv.org/content/10.1101/392126v1.full.pdf)
+
+- [2](https://www.g3journal.org/content/10/4/1159)
+- [3](https://www.biorxiv.org/content/10.1101/2020.05.30.124800v2.full)
+- [4](https://www.biorxiv.org/content/10.1101/2021.03.12.435103v1.full)
+- [5](https://www.biorxiv.org/content/10.1101/668921v3.full)
+- [6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618069/#men13020-sec-0002title)
 
 
 
