@@ -301,6 +301,7 @@ Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was co
 
 ### Hi-C Sequencing
 
+Two weeks-old flash frozen leaves from S. indicum cv. Goenbaek were shiped to Dovetails Genomics for both Chigaco and Hi-C libraries construction. 
 
 
 
