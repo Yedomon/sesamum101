@@ -2,8 +2,6 @@
 
 
 
-
-
 For HiC
 
 - [The genome of the venomous snail Lautoconus ventricosus sheds light on the origin of conotoxin diversity](https://academic.oup.com/gigascience/article/10/5/giab037/6284011)
@@ -302,6 +300,9 @@ Using a high molecular weight of genomic DNA, an ~20 kb SMRT bell library was co
 ### Hi-C Sequencing
 
 Two weeks-old flash frozen leaves from S. indicum cv. Goenbaek were shiped to Dovetails Genomics for both Chigaco and Hi-C libraries construction. 
+The Chigaco library was performed following [Putnam et al. 2016](https://genome.cshlp.org/content/26/3/342.short) approach. Briefly, ...
+For the Hi-C library, ...
+Both Chigaco and Hi-c data were sequenced on NovaSeq 6000 using paired-end read length of 150 bp. 
 
 
 
