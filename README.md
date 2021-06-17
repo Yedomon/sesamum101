@@ -309,7 +309,7 @@ Both Chigaco and Hi-c data were sequenced on NovaSeq 6000 using paired-end read 
 ### Contigs level assembly and anchoring with Hi-C data
 
 
-### Whole genome comparison with Zhongzhi13 and chromosome name allocation 
+### Chromosome assignment 
 
 
 ### Repeat identification
