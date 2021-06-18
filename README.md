@@ -311,6 +311,8 @@ Both Chigaco and Hi-c data were sequenced on NovaSeq 6000 using paired-end read 
 
 ### Chromosome assignment 
 
+We assigned the chromosome to the generated pseudochromosome by aligning the Hi-C based assembly onto Zhongzhi13 with Mummer package.
+
 
 ### Repeat identification
 
