@@ -2,6 +2,13 @@
 
 
 
+Just out today 23 june 2021 | A nice review | [Genome-wide association study and its applications in the non-model crop Sesamum indicum](https://link.springer.com/epdf/10.1186/s12870-021-03046-x?sharing_token=MC--ThRJuoRlwCrziLzE4m_BpE1tBhCbnbw3BuzI2RPu8cTlVCmGk0svQoerGR2WuTla8xjro_DVTUjt-YrN9P_OJoYU3QqlXLfT3NO5WgmZ1Ah86NHidZGvoxEqPMmQrlRtaphGMRXe61GlDIO2uJn50s0zUJq-o1d65GzrpRg%3D)
+
+
+
+![img](![image](https://user-images.githubusercontent.com/45568831/123113603-a3d97180-d479-11eb-87d3-54e9e4eee910.png)
+
+
 For HiC
 
 - [The genome of the venomous snail Lautoconus ventricosus sheds light on the origin of conotoxin diversity](https://academic.oup.com/gigascience/article/10/5/giab037/6284011)
