@@ -6,7 +6,7 @@ Just out today 23 june 2021 | A nice review | [Genome-wide association study and
 
 
 
-![img](![image](https://user-images.githubusercontent.com/45568831/123113603-a3d97180-d479-11eb-87d3-54e9e4eee910.png)
+![image](https://user-images.githubusercontent.com/45568831/123113603-a3d97180-d479-11eb-87d3-54e9e4eee910.png)
 
 
 For HiC
