@@ -6,6 +6,13 @@
 ![image](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/pcp/61/5/10.1093_pcp_pcaa026/2/m_pcaa026f1.png?Expires=1626168435&Signature=tQnowUoGji88o7WI6D4lPLx5H5pdl5reCO2v-t57MIVRu4AccWmH7IYnEJsZF0TrLpXSkoIY8uzrjtar~9kUcqcZdZKvB9fe3~M5iOod5NcxxYFTJ5WJUKHAIbG4CQAEg9s2Ui~dTZoxkauJVlxK836jjkBiGuSX-ATFdlNR2umxb0yPntw8OL4McpJRoF9ua5FWCCVvQ3nFtwTEFk7we1BHhb3u8UsxGBXv2RIL8bCcePS8KNOG~vh8OD0T1GBe0srpLgF2IrDyf2T5AccdY7EVTGP1kAtcn~qld0yHaacPf6FFVus5~~-OLi0~QUcTf3Ix-a6F0biv6JeANvfctw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 
+```
+
+CNGB Nucleotide Sequence Archive (CNSA) under the accession number CNP0000352
+
+```
+
+
 
 
 Just out today 23 june 2021 | A nice review | [Genome-wide association study and its applications in the non-model crop Sesamum indicum](https://link.springer.com/epdf/10.1186/s12870-021-03046-x?sharing_token=MC--ThRJuoRlwCrziLzE4m_BpE1tBhCbnbw3BuzI2RPu8cTlVCmGk0svQoerGR2WuTla8xjro_DVTUjt-YrN9P_OJoYU3QqlXLfT3NO5WgmZ1Ah86NHidZGvoxEqPMmQrlRtaphGMRXe61GlDIO2uJn50s0zUJq-o1d65GzrpRg%3D)
