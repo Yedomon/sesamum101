@@ -1,5 +1,22 @@
 # sesamum101
 
+
+
+
+Inspiration pour mon petit essaie
+
+
+
+[Genome-wide identification and expression analyses of genes involved in raffinose accumulation in sesame](https://www.nature.com/articles/s41598-018-22585-2)
+
+Il ont fait du cold. ils pris le shoot seulement. 
+
+
+
+
+
+
+
 10 March 2020 | [Chromatin Architectures Are Associated with Response to Dark Treatment in the Oil Crop Sesamum indicum, Based on a High-Quality Genome Assembly](https://academic.oup.com/pcp/article/61/5/978/5802473)
 
 
