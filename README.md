@@ -12,6 +12,14 @@ Inspiration pour mon petit essaie
 Il ont fait du cold. ils pris le shoot seulement. 
 
 
+cest quoi un [LEA](https://www.mpimp-golm.mpg.de/12986/The_Role_of_LEA_late_embryogenesis_abundant_Proteins_in_Cellular_Stress_Tolerance)
+
+
+![IMG](https://www.mpimp-golm.mpg.de/2192475/original-1518435875.jpg?t=eyJ3aWR0aCI6NTYwLCJmaWxlX2V4dGVuc2lvbiI6ImpwZyIsIm9ial9pZCI6MjE5MjQ3NX0%3D--7232813b28d3ca0151c9b0a9b3192fca07c66032)
+
+[EXAMPLE LEA](https://www.nature.com/articles/s41598-019-50645-8#Sec2)
+
+[UN AUTRE EXEMPLE](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-118)
 
 
 
