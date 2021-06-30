@@ -21,7 +21,7 @@ cest quoi un [LEA](https://www.mpimp-golm.mpg.de/12986/The_Role_of_LEA_late_embr
 
 [UN AUTRE EXEMPLE](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-118)
 
-
+[UN AUTRE EXAMPLE SUR LE WHEAT](https://www.nature.com/articles/s41598-019-49759-w#Sec12)
 
 
 
