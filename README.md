@@ -6,6 +6,9 @@
 Inspiration pour mon petit essaie
 
 
+Un bon truc pour les DOF genes in sesame |  Je vais suivre ce plan | [nome-Wide Analysis of Dof Genes and Their Response to Abiotic Stress in Rose (Rosa chinensis)](https://www.frontiersin.org/articles/10.3389/fgene.2021.538733/full#h3)
+
+
 
 [Genome-wide identification and expression analyses of genes involved in raffinose accumulation in sesame](https://www.nature.com/articles/s41598-018-22585-2)
 
