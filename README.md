@@ -10,6 +10,16 @@ Un bon truc pour les DOF genes in sesame |  Je vais suivre ce plan | [nome-Wide 
 
 
 
+
+dOF CLASSIFICATION
+
+![IMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC184357/bin/1471-2148-3-17-3.jpg)
+
+
+
+
+
+
 [Genome-wide identification and expression analyses of genes involved in raffinose accumulation in sesame](https://www.nature.com/articles/s41598-018-22585-2)
 
 Il ont fait du cold. ils pris le shoot seulement. 
