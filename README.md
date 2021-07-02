@@ -263,6 +263,28 @@ hmmscan --cpu 8 --tblout sesamum_SMP.txt SMP.hmm ../genome/Sesamum_indicum_v1.pe
 
 
 
+
+
+zf-Dof hmm
+
+
+
+```python
+
+wget http://pfam.xfam.org/family/PF02701/hmm
+
+mv hmm zf-Dof.hmm
+
+hmmpress zf-Dof.hmm
+
+hmmscan --cpu 8 --tblout sesamum_zf-Dof.txt zf-Dof.hmm ../genome/Sesamum_indicum_v1.pep.fasta &> log.zf-Dof &
+
+
+```
+
+
+
+
 Faire avec d'autres espece come arabidopis olive perilla tomate etc comme ici --> [Le genome de prunus](https://academic.oup.com/gigascience/article/9/12/giaa130/6029397)
 
 Ils ont mis un cutoff de 0.01. Il faudra en faire de meme en prenant en compte la colonme best 1 domain je crois.....
