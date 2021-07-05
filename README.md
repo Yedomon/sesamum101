@@ -1,6 +1,20 @@
 # sesamum101
 
 
+
+
+Review pour le drought stress
+
+
+
+[Drought Stress Responses and Resistance in Plants: From Cellular Responses to Long-Distance Intercellular Communication](https://www.frontiersin.org/articles/10.3389/fpls.2020.556972/full)
+
+
+
+![img](https://www.frontiersin.org/files/Articles/556972/fpls-11-556972-HTML/image_m/fpls-11-556972-g001.jpg)
+
+
+
  DNA barcoding using ycf1 chloroplast gene. May be a good new paper using the sesamum species complex
 
 [1](https://www.nature.com/articles/srep08348)
