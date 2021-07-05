@@ -15,6 +15,9 @@ Review pour le drought stress
 
 
 
+Utilise cela pour reference pour le drought stress | [Genome-Wide Investigation of Hsf Genes in Sesame Reveals Their Segmental Duplication Expansion and Their Active Role in Drought Stress Response](https://www.frontiersin.org/articles/10.3389/fpls.2016.01522/full)
+
+
  DNA barcoding using ycf1 chloroplast gene. May be a good new paper using the sesamum species complex
 
 [1](https://www.nature.com/articles/srep08348)
