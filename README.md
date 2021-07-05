@@ -18,6 +18,27 @@ Un autre papier de la chine
 
 
 
+[QTL-Seq and Transcriptome Analysis Disclose Major QTL and Candidate Genes Controlling Leaf Size in Sesame (Sesamum indicum L.)](https://www.frontiersin.org/articles/10.3389/fpls.2021.580846/full)
+
+
+
+
+
+
+![img](https://www.frontiersin.org/files/Articles/580846/fpls-12-580846-HTML/image_m/fpls-12-580846-g001.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 Inspiration pour mon petit essaie
 
 
