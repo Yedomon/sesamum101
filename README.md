@@ -1,6 +1,18 @@
 # sesamum101
 
 
+ DNA barcoding using ycf1 chloroplast gene. May be a good new paper using the sesamum species complex
+
+[1](https://www.nature.com/articles/srep08348)
+[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7427673/)
+[3](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035071)
+
+
+
+
+
+
+
 
 
 
