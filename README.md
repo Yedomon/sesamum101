@@ -3,6 +3,21 @@
 
 
 
+
+Un autre papier de la chine 
+
+
+
+[Fine Mapping of a Major Pleiotropic QTL Associated with Sesamin and Sesamolin Variation in Sesame (Sesamum indicum L.)](https://www.mdpi.com/2223-7747/10/7/1343)
+
+
+
+![img](https://www.mdpi.com/plants/plants-10-01343/article_deploy/html/images/plants-10-01343-g002-550.jpg)
+
+
+
+
+
 Inspiration pour mon petit essaie
 
 
