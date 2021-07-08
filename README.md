@@ -1,5 +1,7 @@
 # sesamum101
 
+[Effects of PEG-induced osmotic stress on growth and dhurrin levels of forage sorghum](https://www.sciencedirect.com/science/article/pii/S0981942813003070?via%3Dihub)
+
 
 > Plants were grown under a range of osmotic stresses to deter-mine the concentration of PEG required to induce a change inHCNp. Plants were grown in soil to the 3 leaf stage and thenacclimatised to the hydroponic system for one week under controlconditions (0% PEG). Plants (approx. 4 weeks old) were then placedin hydroponic solutions containing Hoagland’s nutrient solution(5 mM NO3) with 0%, 2.5%, 5%, 10%, 15% or 20% PEG (n¼5 plants)giving a solutions with a range of osmotic potentials from of0to0.5 MPa[43]. Plants were destructively harvested after 4weeks and divided into leaf (leaf blade, i.e. leaf laminar), leaf sheathand root. At the time of harvest, samples were taken from thefirstfully expanded leaf to determine the relative water content (%RWC), FV/FM,and chlorophyll concentration expressed on a drymass basis using fresh weight to dry weight ratio. The remainingtissue was dried at 50C for 72 h and the separate tissue types wereground to afine powder using a Mixer Mill 301 (Retsch). HCNp wasmeasured on a subsample of thefinely ground dried tissue using acolorimetric assay
 
